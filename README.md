@@ -15,3 +15,19 @@
 - Being ready for changes
 - Having a plan is good but should respond to change
 - 12 Agile Principles
+
+- Deliver value faster (faster on early on and continuously) >< Waterfall (design -> development -> testing -> implement)
++ every week or 2 weeks
++ give feature to customer -> give feedback
+=> value is realized throughout the project 
+- Welcome change (open to change)
+- Working software (for customers)
+- Collaborate daily (dev and business team ask question)
+=> everyone is on the same page on what they're building
+- Best way to convey information is face-to-face conversation
+- Simplicity is the art of maximizing the work not done
+- Reflect and adjust: after an interval (2-3 weeks) look back to see what need to improve and what not
+
+Drawback of Agile:
+- hard to implement if company already follows a structure like Waterfall
+- Agile focuses more on conversation + communication > Waterfall - documentation
