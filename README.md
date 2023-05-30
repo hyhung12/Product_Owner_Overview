@@ -9,3 +9,9 @@
 
 
 - tải, công suất, phát hiện sự cố, nhiệt độ
+- Agile - way of thinking
+- have more conversations - have shared thinking > documentation
+- collaborate with customer > have a strong contract
+- Being ready for changes
+- Having a plan is good but should respond to change
+- 12 Agile Principles
